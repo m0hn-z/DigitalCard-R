@@ -1,0 +1,47 @@
+.info h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 4px;
+}
+.img img{
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+}
+.info h6{
+    color: #F3BF99;
+    font-weight: 400;
+    font-size: 11px;
+    margin-top: 3px;
+}
+.info p{
+    color: #F5F5F5;
+    font-size: 9px;
+    margin-top: 7px;
+}
+
+.btns{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px 0px ;
+}
+
+button{
+    padding: 10px 20px;
+    border: none ;
+    background-color: #fff;
+    outline: none;
+    border-radius: 5px;
+    font-size: 12px;
+}
+.btns .email i{
+    margin-right: 10px;
+}
+.btns .linkedin i{
+    margin-right: 10px;
+}
+.btns .linkedin{
+    background-color: #5093E2;
+    color: #fff;
+}

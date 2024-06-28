@@ -1,0 +1,11 @@
+.container{
+    text-align: center;
+    background-color: #1A1B21;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    max-width: 618px;
+    margin: auto;
+    text-align: center;
+}
